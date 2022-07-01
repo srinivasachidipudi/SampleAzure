@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ChidipudiDataFactory1"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"SqlServer1_connectionString": {
+			"value": ""
+		},
+		"SqlServer2_connectionString": {
+			"value": ""
+		},
+		"linkedService1_connectionString": {
+			"value": ""
+		},
+		"trigger2_properties_typeProperties_scope": {
+			"value": "/subscriptions/1316fc50-1e3c-4ac5-a6f3-439bf791f96e/resourceGroups/rg-ADFfiledemo/providers/Microsoft.Storage/storageAccounts/adffiledemo1"
+		}
+	}
+}
