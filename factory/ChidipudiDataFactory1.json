@@ -1,0 +1,9 @@
+{
+	"name": "ChidipudiDataFactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7ff911e-1b0e-4ee1-b905-90b7d2223f1e",
+		"tenantId": "63ce7d59-2f3e-42cd-a8cc-be764cff5eb6"
+	}
+}
