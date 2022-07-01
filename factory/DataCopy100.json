@@ -1,0 +1,9 @@
+{
+	"name": "DataCopy100",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bda44850-9381-4aef-b516-ad0fde964013",
+		"tenantId": "63ce7d59-2f3e-42cd-a8cc-be764cff5eb6"
+	}
+}
